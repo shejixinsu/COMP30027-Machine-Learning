@@ -1,6 +1,16 @@
 # COMP30027-Machine-Learning
 Machine Learning
 
+# Details for each assignment
+
+ASS1:
+Self-implemented NB classifier
+
+
+ASS2:
+Geo-tagging based on twitter tweets
+
+
 ## Notes!!!
 Due to the plagrism concerns, two uploaded coding assignments are not final version. 
 However, the uploaded code files have stored all the codes that are essential. I just didn't tidy them up.
